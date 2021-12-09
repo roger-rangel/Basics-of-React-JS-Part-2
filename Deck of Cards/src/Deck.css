@@ -1,0 +1,14 @@
+button {
+    margin-top: 2rem;
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+    font-size: 1rem;
+    color: #ffffff;
+    padding: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Deck-cardarea{
+    margin-top: 75px;
+}
