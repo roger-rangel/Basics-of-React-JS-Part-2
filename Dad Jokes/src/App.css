@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #78909c;
+  font-family: "Rubik", sans-serif;
+  background: linear-gradient(
+  135deg,
+  rgb(179, 230, 251, 1) 0%,
+  rgb(179, 230, 251, 1) 50%,
+  rgb(240, 98, 146, 1) 50%,
+  rgb(240, 98, 146, 1) 100%
+  );
+}
+
