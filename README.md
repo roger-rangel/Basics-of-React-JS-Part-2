@@ -19,7 +19,7 @@
 ![deck-3](https://github.com/roger-rangel/Basics-of-React-JS-Part-2/blob/main/Deck%20of%20Cards/public/deck-3.png)
 
 
-## Dog Finder
+## Dogs Finder
 
 ![dog-1](https://github.com/roger-rangel/Basics-of-React-JS-Part-2/blob/main/Dogs%20Finder/public/dogs-1.png)
 
