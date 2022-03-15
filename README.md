@@ -23,9 +23,5 @@
 
 ![dog-1](https://github.com/roger-rangel/Basics-of-React-JS-Part-2/blob/main/Dogs%20Finder/public/dogs-1.png)
 
-![dog-2](https://github.com/roger-rangel/Basics-of-React-JS-Part-2/blob/main/Dogs%20Finder/public/dogs-2.png)
-
-![dog-3](https://github.com/roger-rangel/Basics-of-React-JS-Part-2/blob/main/Dogs%20Finder/public/dogs-3.png)
-
 ![dog-4](https://github.com/roger-rangel/Basics-of-React-JS-Part-2/blob/main/Dogs%20Finder/public/dogs-4.png)
 
