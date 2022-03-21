@@ -25,3 +25,6 @@
 
 ![dog-4](https://github.com/roger-rangel/Basics-of-React-JS-Part-2/blob/main/Dogs%20Finder/public/dogs-4.png)
 
+## Lights Out Game
+
+![game_1](https://github.com/roger-rangel/Basics-of-React-JS-Part-2/blob/main/Lights%20Out%20Game/public/game_1.png)
